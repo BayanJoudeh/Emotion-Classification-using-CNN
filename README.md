@@ -11,8 +11,8 @@ The dataset is structured as follows:
 Train Directory: Contains images for training categorized into different emotion classes.
 
 Validation Directory: Contains images for model validation.
+The dataset can be found at: [Face Expression Recognition Dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset?resource=download)
 
-The dataset can be found at: [Face Expression Recognition Dataset]([https://your-dataset-link.com](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset?resource=download))
 
 
 Requirements
