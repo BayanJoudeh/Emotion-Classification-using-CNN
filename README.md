@@ -12,7 +12,8 @@ Train Directory: Contains images for training categorized into different emotion
 
 Validation Directory: Contains images for model validation.
 
-The dataset can be found at: Kaggle Face Expression Recognition Dataset
+The dataset can be found at: [Link Text]([https://your-link.com](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset?resource=download))
+
 
 Requirements
 
