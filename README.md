@@ -17,4 +17,5 @@ The dataset can be found at: Kaggle Face Expression Recognition Dataset
 Requirements
 
 To run this project, you need the following libraries installed:
+
  pip install numpy pandas matplotlib seaborn keras tensorflow
